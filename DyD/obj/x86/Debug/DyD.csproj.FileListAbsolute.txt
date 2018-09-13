@@ -1,0 +1,52 @@
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\bin\Debug\DyD.exe
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\bin\Debug\DyD.pdb
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\DyD.exe
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\DyD.exe
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+F:\DyD\DyD\obj\x86\Debug\DyD.exe
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+F:\DyD\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+F:\DyD\DyD\bin\Debug\DyD.exe
+F:\DyD\DyD\bin\Debug\DyD.pdb
+F:\DyD\DyD\obj\x86\Debug\DyD.pdb
+F:\DyD\DyD\obj\x86\Debug\DyD.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.exe
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\bin\Debug\DyD.exe
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\bin\Debug\DyD.pdb
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\lucia\Downloads\DyD 06_09\DyD\bin\Debug\DyD.exe
+C:\Users\lucia\Downloads\DyD 06_09\DyD\bin\Debug\DyD.pdb
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.csprojAssemblyReference.cache
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.cache
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.exe
+C:\Users\lucia\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.pdb
